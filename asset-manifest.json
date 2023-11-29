@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vegetables_app.github.io/static/css/main.29797689.css",
+    "main.js": "/vegetables_app.github.io/static/js/main.3ffc5062.js",
+    "static/media/Slider-1.png": "/vegetables_app.github.io/static/media/Slider-1.89d4c10e6549245f337a.png",
+    "static/media/Slider-2.png": "/vegetables_app.github.io/static/media/Slider-2.01fdcc91eff86c9fabdc.png",
+    "static/media/bootstrap-icons.woff?": "/vegetables_app.github.io/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/vegetables_app.github.io/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/vegetables.png": "/vegetables_app.github.io/static/media/vegetables.ac89b9d18a5077eac3e8.png",
+    "static/media/snacks.png": "/vegetables_app.github.io/static/media/snacks.9fadc9e19d2826cec910.png",
+    "static/media/strawberry.png": "/vegetables_app.github.io/static/media/strawberry.fc1c1db18d79f5d98fe7.png",
+    "static/media/coffee.png": "/vegetables_app.github.io/static/media/coffee.63624f8871ae4ec4f3a9.png",
+    "static/media/organic_kiwi.png": "/vegetables_app.github.io/static/media/organic_kiwi.be6728b015f2c0e3f4ee.png",
+    "static/media/cake & milk.png": "/vegetables_app.github.io/static/media/cake & milk.2fdcf0e6eedc6b3f53dd.png",
+    "static/media/black_plum.png": "/vegetables_app.github.io/static/media/black_plum.5462cff6c1821944c2b7.png",
+    "static/media/red_apple.png": "/vegetables_app.github.io/static/media/red_apple.b47d8bf4d6f4e0bca756.png",
+    "static/media/headphone.png": "/vegetables_app.github.io/static/media/headphone.ca75690e37dc381e9f0c.png",
+    "static/media/custurd_apple.png": "/vegetables_app.github.io/static/media/custurd_apple.aad30d7464c1b497bb8d.png",
+    "index.html": "/vegetables_app.github.io/index.html",
+    "main.29797689.css.map": "/vegetables_app.github.io/static/css/main.29797689.css.map",
+    "main.3ffc5062.js.map": "/vegetables_app.github.io/static/js/main.3ffc5062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29797689.css",
+    "static/js/main.3ffc5062.js"
+  ]
+}
